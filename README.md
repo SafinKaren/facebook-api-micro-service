@@ -15,4 +15,7 @@ Edit the file `...\src\main\resources\application.properties` and change
 
 ## Running the project
 
-Console command: `gradle bootRun`.
+- Console command: `gradle bootRun`.
+- Open:
+ * [http://localhost:8080/api/name/4](http://localhost:8080/api/name/4) (where 4 - is a facebookId)
+ * [http://localhost:8080/api/photo/4](http://localhost:8080/api/photo/4) (where 4 - is a facebookId)
